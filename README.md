@@ -2,7 +2,7 @@
 
 Projeto Kotlin Android do livro "Mapas via intenções - Android: Desenvolvedor Especialista". Projeto apresentado na Parte II do livro, nos capítulos 4, 5, 6 e 7.
 
-<img src="https://github.com/viniciusthiengo/book-project-google-maps-intents/blob/master/app/src/main/res/drawable/img_app.png" width="700">
+<img src="https://github.com/viniciusthiengo/book-project-mariah-salao-de-beleza/blob/master/app/src/main/res/drawable/img_app.png" width="700">
 
 **Importante:** para o total entendimento do projeto é preciso ter em mãos o livro "Mapas via intenções", pois as explicações detalhadas estarão todas neste título.
 
