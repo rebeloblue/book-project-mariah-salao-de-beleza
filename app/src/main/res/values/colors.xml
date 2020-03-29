@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Roxo claro -->
+    <color name="colorPrimary">#9670CE</color>
+
+    <!-- Roxo escuro -->
+    <color name="colorPrimaryDark">#7954AF</color>
+
+    <!-- Verde claro -->
+    <color name="colorAccent">#7AD15A</color>
+
+    <!-- Cinza claro -->
+    <color name="colorNavigationView">#F5F5F6</color>
+
+    <!-- Cinza escuro -->
+    <color name="colorItemNormal">#777777</color>
+
+    <!-- Preto -->
+    <color name="colorDarkTextLabel">#222222</color>
+
+    <!-- Roxo muito escuro -->
+    <color name="colorPurpleTextLabel">#714BA4</color>
+
+    <!-- Cinza médio -->
+    <color name="colorGreyIcon">#969FAA</color>
+
+    <!-- Azul médio (link) -->
+    <color name="colorTextLink">#1B9CE2</color>
+</resources>
