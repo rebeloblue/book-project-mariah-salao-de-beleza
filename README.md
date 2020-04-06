@@ -2,7 +2,7 @@
 
 Projeto Kotlin Android do livro "Mapas Android de Alta Qualidade - Evoluindo aplicativos". Projeto apresentado na Parte II do livro, nos capítulos 4, 5, 6 e 7.
 
-<img src="https://github.com/viniciusthiengo/book-project-mariah-salao-de-beleza/blob/master/app/src/main/res/drawable/img_app.png" width="700">
+<img src="https://www.thiengo.com.br/img/livro/mapas-android-de-alta-qualidade-evoluindo-aplicativos/github/parte-2-github.png" width="700">
 
 **Importante:** para o total entendimento do projeto é preciso ter em mãos o livro "Mapas Android de Alta Qualidade", pois as explicações detalhadas estarão todas neste título.
 
