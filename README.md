@@ -20,7 +20,7 @@ Para acessar o repositório do projeto da Parte I do livro entre em: [Repositór
 
 **Página para adquirir o livro:** https://www.thiengo.com.br/livro-desenvolvedor-kotlin-android
 
-<img src="https://www.thiengo.com.br/img/livro/mapas-android-de-alta-qualidade-evoluindo-aplicativos/github/capas-livro-mapas-android-de-alta-qualidade-evoluindo-aplicativos.png" width="280">
+<img src="https://www.thiengo.com.br/img/livro/mapas-android-de-alta-qualidade-evoluindo-aplicativos/github/capas-livro-mapas-android-de-alta-qualidade-evoluindo-aplicativos.png" width="390">
 
 ## Dúvidas e dicas
 
