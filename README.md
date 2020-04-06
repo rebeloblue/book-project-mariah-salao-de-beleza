@@ -6,6 +6,10 @@ Projeto Kotlin Android do livro "Mapas Android de Alta Qualidade - Evoluindo apl
 
 **Importante:** para o total entendimento do projeto é preciso ter em mãos o livro "Mapas Android de Alta Qualidade", pois as explicações detalhadas estarão todas neste título.
 
+### Parte I
+
+Para acessar o repositório do projeto da Parte I do livro entre em: [Repositório projeto Android - Parte I](https://github.com/viniciusthiengo/book-project-google-maps-intents)
+
 ## Dados livro
 
 "Mapas Android de Alta Qualidade - Evoluindo aplicativos" - 1ª edição
