@@ -41,26 +41,7 @@
             android:contentDescription="@string/desc_icon_address"
             android:src="@drawable/ic_address"
             android:tint="@color/colorGreyIcon"
-            android:onClick="showRoute" />
-
-        <!-- TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_above="@+id/rv_container"
-            android:layout_alignTop="@+id/iv_ic_address"
-            android:layout_alignParentEnd="true"
-            android:layout_alignParentRight="true"
-            android:layout_marginStart="8dp"
-            android:layout_marginLeft="8dp"
-            android:layout_marginEnd="16dp"
-            android:layout_marginRight="16dp"
-            android:layout_marginBottom="16dp"
-            android:textColor="@color/colorTextLink"
-            android:layout_toEndOf="@+id/iv_ic_address"
-            android:layout_toRightOf="@+id/iv_ic_address"
-            android:text="@string/address"
-            android:textSize="@dimen/text_size"
-            app:autoSizeTextType="uniform" / -->
+            android:onClick="showRoute"/>
 
         <TextView
             android:layout_width="wrap_content"
@@ -76,7 +57,7 @@
             android:textColor="@color/colorTextLink"
             android:text="@string/address"
             android:textSize="@dimen/text_size"
-            android:onClick="showRoute" />
+            android:onClick="showRoute"/>
 
         <!--
             O ImageView abaixo está sendo utilizado como hackcode
@@ -173,7 +154,7 @@
                 android:textAllCaps="true"
                 android:textColor="@android:color/white"
                 android:textSize="18sp"
-                android:onClick="showRoute" />
+                android:onClick="showRoute"/>
         </RelativeLayout>
 
     </RelativeLayout>

@@ -69,7 +69,7 @@ class MainActivity :
      * */
     fun whatsAppHelp( view: View ){
         // O número abaixo é fictício.
-        val whatsAppUri = Uri.parse( "smsto:27999887766" )
+        val whatsAppUri = Uri.parse( "smsto:27911111111" )
         val intent = Intent( Intent.ACTION_SENDTO, whatsAppUri )
 
         intent.setPackage( "com.whatsapp" )
@@ -105,7 +105,7 @@ class MainActivity :
     fun showRoute( view: View ){
 
         var beautySalon = "Rebecca Miranda Centro Estético, " +
-            "Morada de Laranjeiras, Serra, Espírito Santo, Brasil"
+                "Morada de Laranjeiras, Serra, Espírito Santo, Brasil"
         beautySalon = Uri.encode( beautySalon )
 
         var navigation = "google.navigation:q=$beautySalon"
@@ -125,7 +125,7 @@ class MainActivity :
             val dirAction = "dir_action=navigate"
             val destination = "destination=$beautySalon"
             navigation = "https://www.google.com/maps/dir/?" +
-                "api=1&$dirAction&$destination"
+                    "api=1&$dirAction&$destination"
 
             navigationUri = Uri.parse( navigation )
             intent = Intent( Intent.ACTION_VIEW, navigationUri )
@@ -142,12 +142,12 @@ class MainActivity :
              * usuário para instalar ao menos um dos dois.
              * */
             Toast
-                .makeText(
-                    this,
-                    getString( R.string.apps_needed_info ),
-                    Toast.LENGTH_LONG
-                )
-                .show()
+                    .makeText(
+                            this,
+                            getString( R.string.apps_needed_info ),
+                            Toast.LENGTH_LONG
+                    )
+                    .show()
         }
     }
 }
