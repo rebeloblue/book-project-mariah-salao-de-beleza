@@ -2,7 +2,7 @@
 
 Projeto Kotlin Android do livro "Mapas Android de Alta Qualidade - Evoluindo aplicativos". Projeto apresentado na Parte II do livro, nos capítulos 4, 5, 6 e 7.
 
-<img src="https://www.thiengo.com.br/img/livro/mapas-android-de-alta-qualidade-evoluindo-aplicativos/github/parte-2-github.png" width="700">
+<img src="https://www.thiengo.com.br/img/livro/mapas-android-de-alta-qualidade-evoluindo-aplicativos/github/projeto-android-parte-2-livro-mapas-android-de-alta-qualidade-evoluindo-aplicativos.png" width="700">
 
 **Importante:** para o total entendimento do projeto é preciso ter em mãos o livro "Mapas Android de Alta Qualidade", pois as explicações detalhadas estarão todas neste título.
 
@@ -19,6 +19,8 @@ Para acessar o repositório do projeto da Parte I do livro entre em: [Repositór
 **ISBN:** PDF ➙ 978-85-924568-6-3 | ePUB ➙ 978-85-924568-7-0 | mobi ➙ 978-85-924568-8-7
 
 **Página para adquirir o livro:** https://www.thiengo.com.br/livro-desenvolvedor-kotlin-android
+
+<img src="https://www.thiengo.com.br/img/livro/mapas-android-de-alta-qualidade-evoluindo-aplicativos/github/capas-livro-mapas-android-de-alta-qualidade-evoluindo-aplicativos.png" width="390">
 
 ## Dúvidas e dicas
 
