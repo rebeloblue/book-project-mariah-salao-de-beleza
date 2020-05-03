@@ -1,6 +1,8 @@
 # Mariah Salão de Beleza
 
-Projeto Kotlin Android do livro "Mapas Android de Alta Qualidade - Masterização Android". Projeto apresentado na Parte II do livro, nos capítulos 4, 5, 6 e 7.
+Projeto Kotlin Android do livro "Mapas Android de Alta Qualidade - Masterização Android".
+
+Projeto apresentado na Parte II do livro, nos capítulos 4, 5, 6 e 7.
 
 <img src="https://www.thiengo.com.br/img/livro/mapas-android-de-alta-qualidade/github/projeto-android-parte-2-livro-mapas-android-de-alta-qualidade.png" alt="Projeto Android da segunda parte do livro" width="700">
 
