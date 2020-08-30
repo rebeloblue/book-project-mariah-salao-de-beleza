@@ -19,6 +19,7 @@ class MainActivity :
     NavigationView.OnNavigationItemSelectedListener {
 
     override fun onCreate( savedInstanceState: Bundle? ) {
+        setTheme( R.style.AppTheme_NoActionBar )
         super.onCreate( savedInstanceState )
         setContentView( R.layout.activity_main )
         setSupportActionBar( toolbar )
@@ -142,12 +143,12 @@ class MainActivity :
              * usuário para instalar ao menos um dos dois.
              * */
             Toast
-                    .makeText(
-                            this,
-                            getString( R.string.apps_needed_info ),
-                            Toast.LENGTH_LONG
-                    )
-                    .show()
+                .makeText(
+                    this,
+                    getString( R.string.apps_needed_info ),
+                    Toast.LENGTH_LONG
+                )
+                .show()
         }
     }
 }

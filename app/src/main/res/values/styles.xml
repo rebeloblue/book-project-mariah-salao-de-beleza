@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <!--
+        Tema da splash screen. Carregado antes de tudo
+        para que não fique em tela uma definição de
+        windowBackground que é padrão e sem relação com
+        o design do app.
+    -->
+    <style name="AppTheme.Launcher">
+        <item name="android:windowBackground">
+            @drawable/splash_screen
+        </item>
+    </style>
+
     <!-- Estilo padrão, aplicado em todo o projeto. -->
     <style
         name="AppTheme"
         parent="Theme.AppCompat.Light.DarkActionBar">
 
-        <item name="android:windowBackground">@drawable/background</item>
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
