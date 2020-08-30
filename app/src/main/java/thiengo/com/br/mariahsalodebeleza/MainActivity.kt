@@ -38,11 +38,11 @@ class MainActivity :
 
     override fun onResume() {
         super.onResume()
-        /*
+        /**
          * Hackcode para que seja possível atualizar o título
          * da barra de topo sem que seja necessário mudar o
          * nome do aplicativo.
-         * */
+         */
         toolbar.title = getString(R.string.label_address)
     }
 
@@ -75,10 +75,10 @@ class MainActivity :
 
         intent.setPackage( "com.whatsapp" )
 
-        /*
+        /**
          * Garantindo que a Intent somente será acionada se o
          * aplicativo WhatsApp estiver presente no aparelho.
-         * */
+         */
         if( intent.resolveActivity( packageManager ) != null ){
             startActivity( intent )
         }
@@ -93,7 +93,7 @@ class MainActivity :
         }
     }
 
-    /*
+    /**
      * Método listener de toque (clique) no botão "VISUALIZAR ROTA"
      * o no TextView de endereço.
      *
@@ -102,7 +102,7 @@ class MainActivity :
      * beleza, isso partindo do ponto atual dele. Como o salão de
      * beleza é fictício, está sendo utilizada uma estética presente
      * em Serra, ES.
-     * */
+     */
     fun showRoute( view: View ){
 
         var beautySalon = "Rebecca Miranda Centro Estético, " +
@@ -116,11 +116,11 @@ class MainActivity :
 
         intent.setPackage( "com.google.android.apps.maps" )
 
-        /*
+        /**
          * Caso o aplicativo do Google Maps não esteja presente no
          * aparelho, partimos para a apresentação de rota pelo
          * Google Maps Web, via navegador mobile.
-         * */
+         */
         if( intent.resolveActivity( packageManager ) == null ){
 
             val dirAction = "dir_action=navigate"
@@ -137,11 +137,11 @@ class MainActivity :
             startActivity( intent )
         }
         else{
-            /*
+            /**
              * Se nem o Google Maps e nem o navegador mobile
              * estiverem presentes no aparelho, informe ao
              * usuário para instalar ao menos um dos dois.
-             * */
+             */
             Toast
                 .makeText(
                     this,
