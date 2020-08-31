@@ -56,18 +56,18 @@ class MainActivity :
     }
 
     override fun onNavigationItemSelected( item: MenuItem ): Boolean {
-        /*
+        /**
          * Foi deixado aqui dentro somente o necessário para
          * fechar o menu gaveta quando algum item for acionado.
-         * */
+         */
         drawer_layout.closeDrawer( GravityCompat.START )
         return false // Para não mudar o item selecionado em menu gaveta
     }
 
-    /*
+    /**
      * Método ouvidor para permitir que o usuário entre em contato
      * com o WhatsApp correto com apenas um acionamento em tela.
-     * */
+     */
     fun whatsAppHelp( view: View ){
         // O número abaixo é fictício.
         val whatsAppUri = Uri.parse( "smsto:27911111111" )
