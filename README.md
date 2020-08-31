@@ -18,9 +18,9 @@ Para acessar o repositório do projeto da Parte I do livro entre em: [Repositór
 
 **Autor:** Vinícius Thiengo
 
-**ISBN:** PDF ➙ 978-85-924568-6-3 | ePUB ➙ 978-85-924568-7-0 | mobi ➙ 978-85-924568-8-7
+**ISBN:** PDF ➙ 978-65-00-04716-5 | ePUB ➙ 978-65-00-06500-8 | mobi ➙ 978-65-00-06501-5
 
-**Página para adquirir o livro:** https://www.thiengo.com.br/livro-desenvolvedor-kotlin-android
+**Página para adquirir o livro:** (*no momento disponível somente para quem já é leitor(a)*)
 
 <img src="https://www.thiengo.com.br/img/livro/mapas-android-de-alta-qualidade/github/capas-livro-mapas-android-de-alta-qualidade.jpg" alt="Capas do livro Mapas Android de Alta Qualidade - Masterização Android" width="390">
 
